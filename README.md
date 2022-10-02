@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi everyone 👋
 
+It's my new repository I'm going to use through my way in Python.
+Let's ROCK this place! :simple_smile::guitar::v:
 <!--
 **a-zhavarankau/a-zhavarankau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
