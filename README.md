@@ -2,7 +2,7 @@
 
 It's my new repository I'm going to use through my way in Python.
 Let's ROCK this place! :smile: :guitar: :v:
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,mysql,mongodb,postgres,docker)](https://skills.thijs.gg)
 <!--
 **a-zhavarankau/a-zhavarankau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
