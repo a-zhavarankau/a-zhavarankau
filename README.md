@@ -1,7 +1,7 @@
 ### Hi everyone 👋
 
 It's my new repository I'm going to use through my way in Python.
-Let's ROCK this place! :simple smile: :guitar: :v:
+Let's ROCK this place! :guitar: :v:
 [![My Skills](https://skills.thijs.gg/icons?i=py,mysql,mongodb,postgres,docker)](https://skills.thijs.gg)
 <!--
 **a-zhavarankau/a-zhavarankau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
