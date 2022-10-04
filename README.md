@@ -5,10 +5,10 @@ Let's ROCK this place! :guitar: :v:
 
 [![My Skills](https://skills.thijs.gg/icons?i=py,mysql,mongodb,postgres,docker)](https://skills.thijs.gg)
 
-[<img align=”left” alt=”a.zhavarankau | LinkedIn” width=”22px” src=”./linkedin.svg” />][linkedin]
+[<img align=”left” alt=”a.zhavarankau | LinkedIn” width=”22px” src=”./linkedin.svg”>][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/aliaksandr-zhavarankau/
-![image](https://user-images.githubusercontent.com/114875058/193892148-5d22a35a-3687-4abe-a15a-107ab7995f60.png)
+
 
 
 <!--
