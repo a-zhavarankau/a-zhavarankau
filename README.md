@@ -4,6 +4,9 @@ It's my new repository I'm going to use through my way in Python.
 Let's ROCK this place! :guitar: :v:
 
 [![My Skills](https://skills.thijs.gg/icons?i=py,mysql,mongodb,postgres,docker)](https://skills.thijs.gg)
+
+<img src="https://github-readme-stats.vercel.app/api?username=a-zhavarankau&show_icons=true"/>
+
 <!--
 **a-zhavarankau/a-zhavarankau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
