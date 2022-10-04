@@ -7,7 +7,7 @@ Let's ROCK this place! :guitar: :v:
 
 [<img align=”left” alt=”a.zhavarankau | LinkedIn” width=”22px” src=”./linkedin.svg”>][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/aliaksandr-zhavarankau/
+[linkedin]: [https://www.linkedin.com/in/aliaksandr-zhavarankau/](https://www.linkedin.com/in/aliaksandr-zhavarankau/)
 
 
 
