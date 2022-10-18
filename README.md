@@ -3,11 +3,8 @@
 It's my new repository I'm going to use through my way in Python.
 Let's ROCK this place! :guitar: :v:
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,mysql,mongodb,postgres,docker)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,mysql,mongodb,postgres,docker, linkedin)](https://skills.thijs.gg)
 
-[<img align=”left” alt=”a.zhavarankau | LinkedIn” width=”22px” src=”./linkedin.svg”>][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/aliaksandr-zhavarankau/
 
 
 <!--
