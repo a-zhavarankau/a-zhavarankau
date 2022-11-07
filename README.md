@@ -8,6 +8,8 @@ Let's ROCK this place! :guitar: :v:
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/python.svg">
 <img src="https://img.shields.io/badge/Language-Python-yellow">
 
+<img src="https://img.shields.io/badge/Framework-Django-green">
+
 
 
 <!--
