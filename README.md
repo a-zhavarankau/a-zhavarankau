@@ -6,6 +6,7 @@ Let's ROCK this place! :guitar: :v:
 [![My Skills](https://skills.thijs.gg/icons?i=py,mysql,mongodb,postgres,docker)](https://skills.thijs.gg)
 
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/python.svg">
+<img src="https://img.shields.io/badge/Language-Python-yellow">
 
 
 
