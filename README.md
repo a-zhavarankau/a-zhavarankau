@@ -3,14 +3,9 @@
 It's my new repository I'm going to use through my way in Python.
 So let's ROCK! :guitar: :v:
 
-Welcome to my LinkedIn: 
-<a href="https://www.linkedin.com/in/aliaksandr-zhavarankau/">
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>    
-</a>
+Welcome to my LinkedIn: <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"href="https://www.linkedin.com/in/aliaksandr-zhavarankau/">
 
----
+
 #
 **Back-end**
 
