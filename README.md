@@ -40,5 +40,4 @@ Welcome to my LinkedIn: <a href="https://www.linkedin.com/in/aliaksandr-zhavaran
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 #
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=a-zhavarankau)](https://github.com/a-zhavarankau/github-readme-stats)
