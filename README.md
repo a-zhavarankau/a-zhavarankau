@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 This is my new repository that I'm going to use on my Python journey.
-So let's GO! :guitar_: :v:
+So let's go! :v: :rocket:
 
 Welcome to my LinkedIn: <a href="https://www.linkedin.com/in/aliaksandr-zhavarankau/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>   
