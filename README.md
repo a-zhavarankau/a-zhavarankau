@@ -40,8 +40,7 @@ Welcome to my LinkedIn: <a href="https://www.linkedin.com/in/aliaksandr-zhavaran
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 #
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=a-zhavarankau&theme=dracula&show_icons=true" width="400")](https://github.com/a-zhavarankau/github-readme-stats)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=a-zhavarankau&theme=dracula&show_icons=true" alt="a-zhavarankau" width="400" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=a-zhavarankau&theme=dracula&show_icons=true" alt="a-zhavarankau">
 <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=a-zhavarankau&theme=dracula&hide_border=false" alt ="a-zhavarankau" width="400"> -->
 </p>
