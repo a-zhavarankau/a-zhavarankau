@@ -29,7 +29,6 @@ Welcome to my LinkedIn: <a href="https://www.linkedin.com/in/aliaksandr-zhavaran
 **Tools**
 
 <img src="https://img.shields.io/badge/pycharm-green?style=for-the-badge&logo=pycharm&logoColor=white">
-
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/Beautiful%20Soup-grey?style=for-the-badge&logo=beautiful%20soup&logoColor=black)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
