@@ -1,4 +1,4 @@
-### Hi everyone 👋
+### Hi there 👋
 
 It's my new repository I'm going to use through my way in Python.
 So let's ROCK! :guitar: :v:
@@ -6,7 +6,6 @@ So let's ROCK! :guitar: :v:
 Welcome to my LinkedIn: <a href="https://www.linkedin.com/in/aliaksandr-zhavarankau/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>   
 </a>
-
 
 #
 **Back-end**
@@ -40,7 +39,7 @@ Welcome to my LinkedIn: <a href="https://www.linkedin.com/in/aliaksandr-zhavaran
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
----  
+# 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=a-zhavarankau)](https://github.com/a-zhavarankau/github-readme-stats)
 
 
