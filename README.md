@@ -23,7 +23,7 @@ Let's ROCK this place! :guitar: :v:
 <img src="https://img.shields.io/badge/beautifulsoup-blue?style=for-the-badge&logo=beautiful-soup&logoColor=white">
 <img src="https://img.shields.io/badge/pycharm-orange?style=for-the-badge&logo=pycharm&logoColor=white">
 ![MongoDB](https://img.shields.io/badge/MongoDB-brown?style=for-the-badge&logo=MongoDB&logoColor=green)
-<img src="https://img.shields.io/badge/mongo-brown?style=for-the-badge&logo=mongo&logoColor=green">
+<img src="https://img.shields.io/badge/mongodb-brown?style=for-the-badge&logo=mongodb&logoColor=green">
 
 
 <!--
