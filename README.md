@@ -14,14 +14,14 @@ Welcome to my LinkedIn: <a href="https://www.linkedin.com/in/aliaksandr-zhavaran
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 
-![BeautifulSoup](https://img.shields.io/badge/Beautiful%20Soup-grey?style=for-the-badge&logo=beautiful%20soup&logoColor=black)
+![BeautifulSoup](https://img.shields.io/badge/Beautiful%20Soup-grey?style=for-the-badge&logo=bs4&logoColor=black)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 #
 **Databases**
 
 ![SQL](https://img.shields.io/badge/sql-orange?style=for-the-badge&logo=sql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=orange)
-![MongoDB](https://img.shields.io/badge/Mongo%20DB-%23323330.svg?style=for-the-badge&logo=MongoDB&logoColor=green)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23323330.svg?style=for-the-badge&logo=MongoDB&logoColor=green)
 #
 **Front-end (just basics)**
 
