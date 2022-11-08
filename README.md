@@ -20,7 +20,6 @@ Let's ROCK this place! :guitar: :v:
 **Back-end**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 
@@ -28,8 +27,7 @@ Let's ROCK this place! :guitar: :v:
 **Databases**
 
 ![SQL](https://img.shields.io/badge/sql-orange?style=for-the-badge&logo=sql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=orange)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23323330.svg?style=for-the-badge&logo=MongoDB&logoColor=green)
 #
 **Front-end (just basics)**
@@ -42,11 +40,10 @@ Let's ROCK this place! :guitar: :v:
 
 <img src="https://img.shields.io/badge/pycharm-green?style=for-the-badge&logo=pycharm&logoColor=white">
 
-![BeautifulSoup](https://img.shields.io/badge/Beautiful%20Soup-grey?style=for-the-badge&logo=beautiful%20soup&logoColor=black)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/Beautiful%20Soup-grey?style=for-the-badge&logo=beautiful%20soup&logoColor=black)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
