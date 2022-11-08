@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-It's my new repository I'm going to use through my way in Python.
+This is my new repository that I'm going to use on my Python journey.
 So let's ROCK! :guitar: :v:
 
 Welcome to my LinkedIn: <a href="https://www.linkedin.com/in/aliaksandr-zhavarankau/">
