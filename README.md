@@ -21,7 +21,7 @@ Let's ROCK this place! :guitar: :v:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![BeautifulSoup](https://img.shields.io/badge/-beautifulsoup-grey?style=for-the-badge&logo=beautifulsoup&logoColor=black)
 <img src="https://img.shields.io/badge/beautifulsoup-blue?style=for-the-badge&logo=beautiful-soup&logoColor=white">
-<img src="https://img.shields.io/badge/pycharm-green?style=for-the-badge&logo=pycharm&logoColor=white">
+<img src="https://img.shields.io/badge/pycharm-28743?style=for-the-badge&logo=pycharm&logoColor=white">
 
 
 <!--
