@@ -41,6 +41,6 @@ Welcome to my LinkedIn: <a href="https://www.linkedin.com/in/aliaksandr-zhavaran
 
 #
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=a-zhavarankau&theme=dracula&show_icons=true" alt="a-zhavarankau" width="450">
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=a-zhavarankau&theme=dracula&show_icons=true" alt="a-zhavarankau">
 <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=a-zhavarankau&theme=dracula&hide_border=false" alt ="a-zhavarankau" width="400"> -->
 </p>
