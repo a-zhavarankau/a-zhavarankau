@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=a-zhavarankau&label=Profile%20views&color=0e75b6&style=flat" alt="confesssa" /> </p>
+### Hi there 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=a-zhavarankau&label=Profile%20views&color=0e75b6&style=flat" alt="confesssa" /> </p>
 
 This is my new repository that I'm going to use on my Python journey.
 So let's go! :rocket:
