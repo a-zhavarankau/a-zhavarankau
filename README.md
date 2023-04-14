@@ -1,8 +1,6 @@
-<p align="right">
-<a href="https://www.linkedin.com/in/aliaksandr-zhavarankau"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="aliaksandr-zhavarankau" height="30" /></a>
-<img src="https://komarev.com/ghpvc/?username=a-zhavarankau&label=Profile%20views&color=0e75b6&style=flat" alt="confesssa" /> </p>
 
-### Hi there 👋 
+
+### Hi there 👋  <p align="right"> <img src="https://komarev.com/ghpvc/?username=a-zhavarankau&label=Profile%20views&color=0e75b6&style=flat" alt="confesssa" /> </p>
 
 This is my new repository that I'm going to use on my Python journey.
 So let's go! :rocket:
