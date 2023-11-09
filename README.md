@@ -1,6 +1,6 @@
 ### Hi there 👋 <img src="https://komarev.com/ghpvc/?username=a-zhavarankau&label=Profile%20views&color=0e75b6&style=flat" alt="confesssa" align="right"> 
 
-This is my new repository that I'm going to use on my Python journey.
+This is my repository that I'm going to use on my Python journey.
 So let's go! :rocket:
 
 Welcome to my LinkedIn: <a href="https://www.linkedin.com/in/aliaksandr-zhavarankau/">
