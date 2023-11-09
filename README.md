@@ -25,6 +25,10 @@ Welcome to my LinkedIn: <a href="https://www.linkedin.com/in/aliaksandr-zhavaran
 ![MySQL](https://img.shields.io/badge/mysql-6792b4?style=for-the-badge&logo=mysql&logoColor=orange)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23323330.svg?style=for-the-badge&logo=MongoDB&logoColor=green)
 #
+**Cloud Services:**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+#
 **Front-end (just basics)**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
